@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ernewati.github.io/sitemap.html.gz
+Sitemap: https://ernewati.github.io/app/sitemap.html.gz
+Sitemap: https://ernewati.github.io/assets/sitemap.html.gz
+Sitemap: https://ernewati.github.io/css/sitemap.html.gz
+Sitemap: https://ernewati.github.io/includes/sitemap.html.gz
+Sitemap: https://ernewati.github.io/item/sitemap.html.gz
+Sitemap: https://ernewati.github.io/src/sitemap.html.gz
